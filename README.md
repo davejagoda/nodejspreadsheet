@@ -7,7 +7,7 @@ nodejs and Google spreadsheets
 
 ```
 EMAIL=<service account email address>
-KEYFILE=<path to private kye file in PEM format>
+KEYFILE=<path to private key file in PEM format>
 SPREADSHEET=<spreadsheet name>
 WORKSHEET=<worksheet name>
 ```
