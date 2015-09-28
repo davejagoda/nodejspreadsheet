@@ -11,3 +11,9 @@ KEYFILE=<path to private key file in PEM format>
 SPREADSHEET=<spreadsheet name>
 WORKSHEET=<worksheet name>
 ```
+
+# start instructions
+
+```
+foreman start
+```
