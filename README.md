@@ -12,6 +12,9 @@ SPREADSHEET=<spreadsheet name>
 WORKSHEET=<worksheet name>
 ```
 
+If you put these in a `.env` file then foreman will set them for you
+automatically.
+
 # start instructions
 
 ```
